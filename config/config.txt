@@ -1,0 +1,3 @@
+you need to put the credentials for gspread
+mkdir $env:APPDATA/gspread
+mv .\credentials.json $env:APPDATA/gspread

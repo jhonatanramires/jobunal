@@ -1,0 +1,9 @@
+{
+  "g_port": 8080,
+  "g_credentials_path": "",
+  "g_authorized_user_path": "",
+  "scopes": [
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/drive"
+  ]
+}
